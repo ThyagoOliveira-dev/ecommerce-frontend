@@ -1,9 +1,3 @@
-
----
-
-# 🎨 🌐 README — ecommerce-frontend
-
-```md id="frontend-readme"
 # 🛍️ E-commerce Frontend
 
 Interface web desenvolvida para consumo de API REST, permitindo autenticação de usuários e gerenciamento de produtos.
@@ -29,7 +23,7 @@ Interface web desenvolvida para consumo de API REST, permitindo autenticação d
 
 ## ⚙️ Como rodar o projeto
 
-```bash
+```
 # Clonar o repositório
 git clone https://github.com/seu-usuario/ecommerce-frontend.git
 
